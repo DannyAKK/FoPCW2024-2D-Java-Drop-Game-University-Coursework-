@@ -19,35 +19,6 @@ It demonstrates the following concepts:
 - Asset management in Java  
 - NetBeans/Ant project structure  
 
-## Project Structure
-
-FoPCW2024/
-│
-├── nbproject/                # NetBeans configuration files
-├── build.xml                 # Main Ant build script
-├── src/
-│   └── uk/ac/bradford/dropgame/
-│       ├── Launcher.java
-│       ├── GameEngine.java
-│       ├── GameGUI.java
-│       ├── InputHandler.java
-│       ├── Player.java
-│       ├── Dropper.java
-│       ├── Entity.java
-│       └── Tile.java
-│
-└── assets/                   # Sprite images used in the game
-    ├── background.png
-    ├── box.png
-    ├── ceiling.png
-    ├── door.png
-    ├── dropper.png
-    ├── floor.png
-    ├── item.png
-    ├── itembox.png
-    ├── player.png
-    └── wall.png
-
 ## Asset Description
 
 - background.png – Background tile
